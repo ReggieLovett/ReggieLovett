@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/reggielovett/">
-    <img src="https://img.shields.io/badge/LinkedIn-0e0b1a?style=for-the-badge&logo=linkedin&logoColor=ffb347" alt="LinkedIn">
+    <img src="./assets/linkedin-button.svg" alt="LinkedIn" height="44">
   </a>
   <a href="https://github.com/ReggieLovett">
-    <img src="https://img.shields.io/badge/GitHub-0e0b1a?style=for-the-badge&logo=github&logoColor=ffb347" alt="GitHub">
+  <img src="./assets/github-button.svg" alt="GitHub" height="44">
   </a>
 </p>
 
